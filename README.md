@@ -16,6 +16,3 @@
 ## 🎯 Goals
 - Improve hands-on penetration testing skills  
 - Share security knowledge and learn from the community
-<p align="center">
-  <img src="https://tenor.com/view/kusuriya-no-hitorigoto-maomao-anime-girl-anime-cute-gif-11757055613041053022" width="400" />
-</p>
