@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @pnn219
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫About Me :
+# 👋 Hi, I'm pnn219
 
-<!---
-IamPinkPanth3r/IamPinkPanth3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 I am a **Pentester / Ethical Hacker**, focused on identifying and exploiting security vulnerabilities to help improve system security.
+## 💻 Areas of Interest
+- Web Application Security  
+- Network & System Security  
+- Vulnerability Assessment & Penetration Testing  
+- CTFs & Security Research  
+
+## 🛠️ Tools & Skills
+- Kali Linux, Burp Suite, Nmap, Metasploit  
+- OWASP Top 10  
+- Bash / Python 
+
+## 🎯 Goals
+- Improve hands-on penetration testing skills  
+- Share security knowledge and learn from the community
